@@ -1,0 +1,7 @@
+{
+  "identity":"test",
+  "matrixExtList":[
+    { "extCode":"test.qg",
+      "typeList":["X","Y"]}
+  ]
+}
